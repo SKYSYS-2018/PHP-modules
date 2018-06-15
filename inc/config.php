@@ -2,7 +2,7 @@
 
 /* Database connection building module */
 
-$host=""; 		  // default "localhost"
+$host="";       // default "localhost"
 $username=""; 	// default "root"
 $password=""; 	// default ""
 $db="";	        // use the database name
